@@ -1,0 +1,1 @@
+{{ $mobil[0]->harga_mobil }}
